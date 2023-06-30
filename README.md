@@ -64,8 +64,6 @@ Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-
 
 Xu, K., Jiang, Z., Liu, Q., Xie, Q., Zhu, Y., Cao, W., & Ni, J. (2022). Multi-modal and multi-view image dataset for weeds detection in wheat field. Frontiers in Plant Science, 13, 936748. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Multi-modal+and+multi-view+image+dataset+for+weeds+detection+in+wheat+field&btnG=) [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9443486) [[dataset]](https://github.com/cocococoxu/MMDWWF)
 
-Giselsson, T. M., Jørgensen, R. N., Jensen, P. K., Dyrmann, M., & Midtiby, H. S. (2017). A public image database for benchmark of plant seedling classification algorithms. arXiv preprint arXiv:1711.05458. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=A+public+image+database+for+benchmark+of+plant+seedling+classification+algorithms&btnG=) [[paper]](https://arxiv.org/pdf/1711.05458.pdf) [[dataset]](https://vision.eng.au.dk/%20plant-seedlings-dataset)
-
 **2021**
 
 Du, Y., Zhang, G., Tsang, D., & Jawed, M. K. (2022, May). Deep-cnn based robotic multi-class under-canopy weed control in precision farming. In 2022 International Conference on Robotics and Automation (ICRA) (pp. 2273-2279). IEEE. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Deep-CNN+based+Robotic+Multi-Class+Under-Canopy+Weed+Control+in+Precision+Farming&btnG=#d=gs_cit&t=1688155970376&u=%2Fscholar%3Fq%3Dinfo%3AhJxcbQNBK9MJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den) [[paper]](https://ieeexplore.ieee.org/abstract/document/9812240/) [[dataset]](https://github.com/duyayun/AIWeeds-Realisitic-Multi-label-Weed-Dataset-and-deep-CNN-RealTime-Robotic-Weed-Classification)
