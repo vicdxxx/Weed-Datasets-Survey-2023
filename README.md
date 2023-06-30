@@ -5,7 +5,7 @@
 ## Citation
 Please consider cite our work if you find this repo is helpful.
 ```
-@article{lu2022generative,
+@article{Update soon,
   title={Weed Image Database Development towards Robust Weed Recognition},
   author={Lu, Yuzhen and Deng, Boyang},
   journal={Update soon},
