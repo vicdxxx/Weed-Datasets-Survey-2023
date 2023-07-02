@@ -36,13 +36,15 @@ Dang, F., Chen, D., Lu, Y., & Li, Z. (2023). YOLOWeeds: A novel benchmark of YOL
 
 **2022**
 
-Brownlow Hill Fireweed [[dataset]](https://weed-ai.sydney.edu.au/datasets/24b34712-c31b-4efc-9790-406d1f14d840)
+Brownlow Hill Fireweed (Coleman et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/24b34712-c31b-4efc-9790-406d1f14d840)
 
-RadishWheatDataset [[dataset]](https://weed-ai.sydney.edu.au/datasets/8b8f134f-ede4-4792-b1f7-d38fc05d8127)
+Emerging ryegrass seedlings in a fallow soi (Leon et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c828f20d-9b3b-451a-b1a3-eb35398760da)
+
+Brownlow Hill Fireweed (Coleman et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/24b34712-c31b-4efc-9790-406d1f14d840)
+
+RadishWheatDataset (Rayner et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/8b8f134f-ede4-4792-b1f7-d38fc05d8127)
 
 Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-based CNNs for detecting monocot/dicot weeds in dense field environments. Agronomy, 12(5), 1167. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Novel+Assessment+of+Region-Based+CNNs+for+Detecting+Monocot%2FDicot+Weeds+in+Dense+Field+Environments&btnG=) [[paper]](https://www.mdpi.com/2073-4395/12/5/1167) [[dataset]](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
-
-Emerging ryegrass seedlings in a fallow soil [[dataset]](https://weed-ai.sydney.edu.au/datasets/c828f20d-9b3b-451a-b1a3-eb35398760da)
 
 Wang, P., Tang, Y., Luo, F., Wang, L., Li, C., Niu, Q., & Li, H. (2022). Weed25: A deep learning dataset for weed identification. Frontiers in Plant Science, 13, 1053329. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Weed25%3A+A+deep+learning+dataset+for+weed+identification&btnG=) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2022.1053329/full) [[dataset]](https://pan.baidu.com/s/1rnUoDm7IxxmX1n1LmtXNXw) (dataset password is rn5h)
 
@@ -61,11 +63,11 @@ Du, Y., Zhang, G., Tsang, D., & Jawed, M. K. (2022, May). Deep-cnn based robotic
 Salazar-Gomez, A., Darbyshire, M., Gao, J., Sklar, E. I., & Parsons, S. (2021). Towards practical object detection for weed spraying in precision agriculture. arXiv preprint arXiv:2109.11048. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Towards+practical+object+detection+for+weed+spraying+in+precision+agriculture&btnG=) [[paper]](https://arxiv.org/abs/2109.11048) [[dataset]](https://github.
 com/LAR/lincolnbeet_dataset)
 
-Wild carrot flowers in canola [[dataset]](https://weed-ai.sydney.edu.au/datasets/c4a80379-afda-4972-b274-82a544addd0d)
+Wild carrot flowers in canola (Leon et al. 2021) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c4a80379-afda-4972-b274-82a544addd0d)
 
-Precision Sustainable Ag 2021 OpenCV Competition [[dataset]](https://github.com/precision-sustainable-ag/OpenCV_Competition2021/)
+Precision Sustainable Ag 2021 OpenCV Competition (Precision Sustainable Ag. 2021) [[dataset]](https://github.com/precision-sustainable-ag/OpenCV_Competition2021/)
 
-Coleman 2021 Datasets [[dataset]](https://weed-ai.sydney.edu.au/datasets)
+Coleman 2021 Datasets (Coleman et al. 2021), including 10 datasets [[dataset]](https://weed-ai.sydney.edu.au/datasets)
 
 **2020**
 
