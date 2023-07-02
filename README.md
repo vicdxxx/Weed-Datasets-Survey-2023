@@ -50,8 +50,6 @@ Chen, D., Lu, Y., Li, Z., & Young, S. (2022). Performance evaluation of deep tra
 
 Mylonas, N., Malounas, I., Mouseti, S., Vali, E., Espejo-Garcia, B., & Fountas, S. (2022). Eden library: A long-term database for storing agricultural multi-sensor datasets from uav and proximal platforms. Smart Agricultural Technology, 2, 100028. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Eden+Library%3A+A+long-term+database+for+storing+agricultural+multi-sensor+datasets+from+UAV+and+proximal+platforms&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S2772375521000289)  [[dataset]](https://edenlibrary.ai/datasets)
 
-Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-based CNNs for detecting monocot/dicot weeds in dense field environments. Agronomy, 12(5), 1167. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Novel+Assessment+of+Region-Based+CNNs+for+Detecting+Monocot%2FDicot+Weeds+in+Dense+Field+Environments&btnG=) [[paper]](https://www.mdpi.com/2073-4395/12/5/1167) [[dataset]](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
-
 Xu, K., Jiang, Z., Liu, Q., Xie, Q., Zhu, Y., Cao, W., & Ni, J. (2022). Multi-modal and multi-view image dataset for weeds detection in wheat field. Frontiers in Plant Science, 13, 936748. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Multi-modal+and+multi-view+image+dataset+for+weeds+detection+in+wheat+field&btnG=) [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9443486) [[dataset]](https://github.com/cocococoxu/MMDWWF)
 
 **2021**
