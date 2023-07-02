@@ -40,8 +40,6 @@ Brownlow Hill Fireweed (Coleman et al. 2022) [[dataset]](https://weed-ai.sydney.
 
 Emerging ryegrass seedlings in a fallow soi (Leon et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c828f20d-9b3b-451a-b1a3-eb35398760da)
 
-Brownlow Hill Fireweed (Coleman et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/24b34712-c31b-4efc-9790-406d1f14d840)
-
 RadishWheatDataset (Rayner et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/8b8f134f-ede4-4792-b1f7-d38fc05d8127)
 
 Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-based CNNs for detecting monocot/dicot weeds in dense field environments. Agronomy, 12(5), 1167. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Novel+Assessment+of+Region-Based+CNNs+for+Detecting+Monocot%2FDicot+Weeds+in+Dense+Field+Environments&btnG=) [[paper]](https://www.mdpi.com/2073-4395/12/5/1167) [[dataset]](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
