@@ -28,7 +28,7 @@ Please consider cite our work if you find this repo is helpful.
 
 **2023**
 
-Amsinckia in chickpeas [[dataset]](https://weed-ai.sydney.edu.au/datasets/21675efe-9d25-4096-be76-3a541475efd4)
+Amsinckia in chickpeas (Plant et al. 2023) [[dataset]](https://weed-ai.sydney.edu.au/datasets/21675efe-9d25-4096-be76-3a541475efd4)
 
 Steininger, D., Trondl, A., Croonen, G., Simon, J., & Widhalm, V. (2023). The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 3729-3738). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CropAndWeed+%28Steininger+et+al.+2023%29&btnG=) [[paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Steininger_The_CropAndWeed_Dataset_A_Multi-Modal_Learning_Approach_for_Efficient_Crop_WACV_2023_paper.pdf) [[dataset]](https://github.com/cropandweed/cropandweed-dataset)
 
