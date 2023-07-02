@@ -67,7 +67,7 @@ Wild carrot flowers in canola (Leon et al. 2021) [[dataset]](https://weed-ai.syd
 
 Precision Sustainable Ag 2021 OpenCV Competition (Precision Sustainable Ag. 2021) [[dataset]](https://github.com/precision-sustainable-ag/OpenCV_Competition2021/)
 
-Coleman 2021 Datasets (Coleman et al. 2021), including 10 datasets [[dataset]](https://weed-ai.sydney.edu.au/datasets)
+Coleman 2021 Datasets (Coleman et al. 2021), including 10 datasets. [[dataset]](https://weed-ai.sydney.edu.au/datasets)
 
 **2020**
 
