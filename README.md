@@ -52,9 +52,9 @@ Mylonas, N., Malounas, I., Mouseti, S., Vali, E., Espejo-Garcia, B., & Fountas, 
 
 Xu, K., Jiang, Z., Liu, Q., Xie, Q., Zhu, Y., Cao, W., & Ni, J. (2022). Multi-modal and multi-view image dataset for weeds detection in wheat field. Frontiers in Plant Science, 13, 936748. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Multi-modal+and+multi-view+image+dataset+for+weeds+detection+in+wheat+field&btnG=) [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9443486) [[dataset]](https://github.com/cocococoxu/MMDWWF)
 
-**2021**
-
 Du, Y., Zhang, G., Tsang, D., & Jawed, M. K. (2022, May). Deep-cnn based robotic multi-class under-canopy weed control in precision farming. In 2022 International Conference on Robotics and Automation (ICRA) (pp. 2273-2279). IEEE. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Deep-CNN+based+Robotic+Multi-Class+Under-Canopy+Weed+Control+in+Precision+Farming&btnG=#d=gs_cit&t=1688155970376&u=%2Fscholar%3Fq%3Dinfo%3AhJxcbQNBK9MJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den) [[paper]](https://ieeexplore.ieee.org/abstract/document/9812240/) [[dataset]](https://github.com/duyayun/AIWeeds-Realisitic-Multi-label-Weed-Dataset-and-deep-CNN-RealTime-Robotic-Weed-Classification)
+
+**2021**
 
 Salazar-Gomez, A., Darbyshire, M., Gao, J., Sklar, E. I., & Parsons, S. (2021). Towards practical object detection for weed spraying in precision agriculture. arXiv preprint arXiv:2109.11048. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Towards+practical+object+detection+for+weed+spraying+in+precision+agriculture&btnG=) [[paper]](https://arxiv.org/abs/2109.11048) [[dataset]](https://github.
 com/LAR/lincolnbeet_dataset)
