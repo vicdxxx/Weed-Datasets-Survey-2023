@@ -19,16 +19,16 @@ Please consider cite our work if you find this repo is helpful.
 ## Contents
 
 * [Weed datasets in Agriculture](#applications-of-gans-in-agriculture)
-  * [Precision Agriculture](#precision-agriculture)
-
-(#applications-of-diffusion-models-in-agriculture)
+  * [Public Datasets with its paper](#precision-agriculture)
+  * [Public Datasets without paper](#precision-agriculture)
 
 # Weed datasets in Agriculture
-## Precision Agriculture
+## Public Datasets with its paper
 
 **2023**
 
-Amsinckia in chickpeas (Plant et al. 2023) [[dataset]](https://weed-ai.sydney.edu.au/datasets/21675efe-9d25-4096-be76-3a541475efd4)
+**2023**
+
 
 Steininger, D., Trondl, A., Croonen, G., Simon, J., & Widhalm, V. (2023). The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 3729-3738). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CropAndWeed+%28Steininger+et+al.+2023%29&btnG=) [[paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Steininger_The_CropAndWeed_Dataset_A_Multi-Modal_Learning_Approach_for_Efficient_Crop_WACV_2023_paper.pdf) [[dataset]](https://github.com/cropandweed/cropandweed-dataset)
 
@@ -36,11 +36,9 @@ Dang, F., Chen, D., Lu, Y., & Li, Z. (2023). YOLOWeeds: A novel benchmark of YOL
 
 **2022**
 
-Brownlow Hill Fireweed (Coleman et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/24b34712-c31b-4efc-9790-406d1f14d840)
 
-Emerging ryegrass seedlings in a fallow soi (Leon et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c828f20d-9b3b-451a-b1a3-eb35398760da)
 
-RadishWheatDataset (Rayner et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/8b8f134f-ede4-4792-b1f7-d38fc05d8127)
+
 
 Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-based CNNs for detecting monocot/dicot weeds in dense field environments. Agronomy, 12(5), 1167. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Novel+Assessment+of+Region-Based+CNNs+for+Detecting+Monocot%2FDicot+Weeds+in+Dense+Field+Environments&btnG=) [[paper]](https://www.mdpi.com/2073-4395/12/5/1167) [[dataset]](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
 
@@ -56,14 +54,9 @@ Du, Y., Zhang, G., Tsang, D., & Jawed, M. K. (2022, May). Deep-cnn based robotic
 
 **2021**
 
-Salazar-Gomez, A., Darbyshire, M., Gao, J., Sklar, E. I., & Parsons, S. (2021). Towards practical object detection for weed spraying in precision agriculture. arXiv preprint arXiv:2109.11048. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Towards+practical+object+detection+for+weed+spraying+in+precision+agriculture&btnG=) [[paper]](https://arxiv.org/abs/2109.11048) [[dataset]](https://github.
-com/LAR/lincolnbeet_dataset)
+Salazar-Gomez, A., Darbyshire, M., Gao, J., Sklar, E. I., & Parsons, S. (2021). Towards practical object detection for weed spraying in precision agriculture. arXiv preprint arXiv:2109.11048. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Towards+practical+object+detection+for+weed+spraying+in+precision+agriculture&btnG=) [[paper]](https://arxiv.org/abs/2109.11048) [[dataset]](https://github.com/LAR/lincolnbeet_dataset)
 
-Wild carrot flowers in canola (Leon et al. 2021) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c4a80379-afda-4972-b274-82a544addd0d)
 
-Precision Sustainable Ag 2021 OpenCV Competition (Precision Sustainable Ag. 2021) [[dataset]](https://github.com/precision-sustainable-ag/OpenCV_Competition2021/)
-
-Coleman 2021 Datasets (Coleman et al. 2021), including 10 datasets. [[dataset]](https://weed-ai.sydney.edu.au/datasets)
 
 **2020**
 
@@ -101,3 +94,29 @@ Lameski, P., Zdravevski, E., Trajkovik, V., & Kulakov, A. (2017). Weed detection
 **2015**
 
 Haug, S., & Ostermann, J. (2015). A crop/weed field image dataset for the evaluation of computer vision based precision agriculture tasks. In Computer Vision-ECCV 2014 Workshops: Zurich, Switzerland, September 6-7 and 12, 2014, Proceedings, Part IV 13 (pp. 105-116). Springer International Publishing. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Haug%2C+S.%2C+Ostermann%2C+J.%2C+2015.+A+crop%2Fweed+field+image+dataset+for+the+evaluation+of+computer+vision+based+precision+agriculture+tasks.+In%3A+Agapito%2C+L.%2C+Bronstein%2C+M.%2C+Rother%2C+C.+%28Eds.%29%2C+Computer+Vision+-+ECCV+2014+Workshops.+Springer%2C+Switzerland%2C+pp.+105%E2%80%93116.&btnG=) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-16220-1_8) [[dataset]](http://github.com/cwfid)
+
+
+## Public Datasets without paper
+
+**2023**
+
+Amsinckia in chickpeas (Plant et al. 2023) [[dataset]](https://weed-ai.sydney.edu.au/datasets/21675efe-9d25-4096-be76-3a541475efd4)
+
+**2022**
+
+
+Brownlow Hill Fireweed (Coleman et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/24b34712-c31b-4efc-9790-406d1f14d840)
+
+RadishWheatDataset (Rayner et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/8b8f134f-ede4-4792-b1f7-d38fc05d8127)
+
+Emerging ryegrass seedlings in a fallow soi (Leon et al. 2022) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c828f20d-9b3b-451a-b1a3-eb35398760da)
+
+
+**2021**
+
+Coleman 2021 Datasets (Coleman et al. 2021), including 10 datasets. [[dataset]](https://weed-ai.sydney.edu.au/datasets)
+
+Wild carrot flowers in canola (Leon et al. 2021) [[dataset]](https://weed-ai.sydney.edu.au/datasets/c4a80379-afda-4972-b274-82a544addd0d)
+
+Precision Sustainable Ag 2021 OpenCV Competition (Precision Sustainable Ag. 2021) [[dataset]](https://github.com/precision-sustainable-ag/OpenCV_Competition2021/)
+
