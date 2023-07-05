@@ -46,7 +46,6 @@ Dang, F., Chen, D., Lu, Y., & Li, Z. (2023). YOLOWeeds: A novel benchmark of YOL
 
 Alam, M. S., Alam, M., Tufail, M., Khan, M. U., Güneş, A., Salah, B., ... & Khan, M. T. (2022). TobSet: A new tobacco crop and weeds image dataset and its utilization for vision-based spraying by agricultural robots. Applied Sciences, 12(3), 1308. [[scholar]](https://scholar.google.com/scholar?q=info:SEolHh2fB0AJ:scholar.google.com/&oi=gsb&lookup=0&hl=en) [[paper]](https://www.mdpi.com/2076-3417/12/3/1308) [[dataset]](https://github.com/mshahabalam/TobSet)
 
-
 Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-based CNNs for detecting monocot/dicot weeds in dense field environments. Agronomy, 12(5), 1167. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Novel+Assessment+of+Region-Based+CNNs+for+Detecting+Monocot%2FDicot+Weeds+in+Dense+Field+Environments&btnG=) [[paper]](https://www.mdpi.com/2073-4395/12/5/1167) [[dataset]](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
 
 Wang, P., Tang, Y., Luo, F., Wang, L., Li, C., Niu, Q., & Li, H. (2022). Weed25: A deep learning dataset for weed identification. Frontiers in Plant Science, 13, 1053329. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Weed25%3A+A+deep+learning+dataset+for+weed+identification&btnG=) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2022.1053329/full) [[dataset]](https://pan.baidu.com/s/1rnUoDm7IxxmX1n1LmtXNXw) (dataset password is rn5h)
@@ -78,7 +77,7 @@ Bosilj, P., Aptoula, E., Duckett, T., & Cielniak, G. (2020). Transfer learning b
 
 **2019**
 
-Olsen, A., Konovalov, D. A., Philippa, B., Ridd, P., Wood, J. C., Johns, J., ... & White, R. D. (2019). DeepWeeds: A multiclass weed species image dataset for deep learning. Scientific reports, 9(1), 2058. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=DeepWeeds+%28Olsen+et+al.+2019%29&btnG=) [[paper]](https://www.mdpi.com/2072-4292/10/9/1423) [[dataset]](https://github.com/AlexOlsen/DeepWeeds)
+Olsen, A., Konovalov, D. A., Philippa, B., Ridd, P., Wood, J. C., Johns, J., ... & White, R. D. (2019). DeepWeeds: A multiclass weed species image dataset for deep learning. Scientific reports, 9(1), 2058. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=DeepWeeds+%28Olsen+et+al.+2019%29&btnG=) [[paper]](https://www.nature.com/articles/s41598-018-38343-3) [[dataset]](https://github.com/AlexOlsen/DeepWeeds)
 
 
 **2018**
