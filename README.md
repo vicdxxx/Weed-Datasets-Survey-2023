@@ -28,7 +28,7 @@ Please consider cite our work if you find this repo is helpful.
 
 **2023**
 
-Rahman, A., Lu, Y., & Wang, H. (2023). Performance evaluation of deep learning object detectors for weed detection for cotton. Smart Agricultural Technology, 3, 100126. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=80000007&as_ylo=2020&as_yhi=2023&q=Performance+evaluation+of+deep+learning+object+detectors+for+weed+detection+for+cotton&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S2772375522000910)  [[dataset]](www.kaggle.com/yuzhenlu/cottonweeddet3) 
+Rahman, A., Lu, Y., & Wang, H. (2023). Performance evaluation of deep learning object detectors for weed detection for cotton. Smart Agricultural Technology, 3, 100126. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=80000007&as_ylo=2020&as_yhi=2023&q=Performance+evaluation+of+deep+learning+object+detectors+for+weed+detection+for+cotton&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S2772375522000910)  [[dataset]](https://www.kaggle.com/datasets/yuzhenlu/cottonweeddet3) 
 
 dataset info: 848 images, 3 (weeds), RGB
 
