@@ -72,6 +72,8 @@ dataset info:  8,000 images, 2 (1 weed), RGB
 
 Teimouri, N., Jørgensen, R. N., & Green, O. (2022). Novel assessment of region-based CNNs for detecting monocot/dicot weeds in dense field environments. Agronomy, 12(5), 1167. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Novel+Assessment+of+Region-Based+CNNs+for+Detecting+Monocot%2FDicot+Weeds+in+Dense+Field+Environments&btnG=) [[paper]](https://www.mdpi.com/2073-4395/12/5/1167) [[dataset]](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
 
+dataset info:  1,147 images, 2 (weeds), RGB
+
 Wang, P., Tang, Y., Luo, F., Wang, L., Li, C., Niu, Q., & Li, H. (2022). Weed25: A deep learning dataset for weed identification. Frontiers in Plant Science, 13, 1053329. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Weed25%3A+A+deep+learning+dataset+for+weed+identification&btnG=) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2022.1053329/full) [[dataset]](https://pan.baidu.com/s/1rnUoDm7IxxmX1n1LmtXNXw) (dataset password is rn5h)
 
 Chen, D., Lu, Y., Li, Z., & Young, S. (2022). Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems. Computers and Electronics in Agriculture, 198, 107091. [[scholar]](https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C23&q=Performance+evaluation+of+deep+transfer+learning+on+multi-class+identification+of+common+weed+species+in+cotton+production+systems&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004082)  [[dataset]](https://www.kaggle.com/yuzhenlu/cottonweedid15)
