@@ -28,7 +28,10 @@ Please consider cite our work if you find this repo is helpful.
 
 **2023**
 
-Rahman, A., Lu, Y., & Wang, H. (2023). Performance evaluation of deep learning object detectors for weed detection for cotton. Smart Agricultural Technology, 3, 100126. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=80000007&as_ylo=2020&as_yhi=2023&q=Performance+evaluation+of+deep+learning+object+detectors+for+weed+detection+for+cotton&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S2772375522000910)  [[dataset]](https://www.kaggle.com/datasets/yuzhenlu/cottonweeddet3) 
+Rahman, A., Lu, Y., & Wang, H. (2023). Performance evaluation of deep learning object detectors for weed detection for cotton. Smart Agricultural Technology, 3, 100126. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=80000007&as_ylo=2020&as_yhi=2023&q=Performance+evaluation+of+deep+learning+object+detectors+for+weed+detection+for+cotton&btnG=)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2772375522000910)
+[[dataset]](https://www.kaggle.com/datasets/yuzhenlu/cottonweeddet3) 
 
 dataset info: 848 images, 3 (weeds), RGB
 
@@ -40,29 +43,57 @@ Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, 
 
 dataset info: 201 images, 3 (weeds), RGB
 
-Olaniyi, O. M., Salaudeen, M. T., Daniya, E., Abdullahi, I. M., Folorunso, T. A., Bala, J. A., ... & Macarthy, O. M. (2023). Development of maize plant dataset for intelligent recognition and weed control. Data in Brief, 47, 109030. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Development+of+maize+plant+dataset+for+intelligent+recognition+and+weed+control&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S2352340923001488)  [[dataset]](https://data.mendeley.com/datasets/jjbfcckrsp/2)
+Olaniyi, O. M., Salaudeen, M. T., Daniya, E., Abdullahi, I. M., Folorunso, T. A., Bala, J. A., ... & Macarthy, O. M. (2023). Development of maize plant dataset for intelligent recognition and weed control. Data in Brief, 47, 109030. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Development+of+maize+plant+dataset+for+intelligent+recognition+and+weed+control&btnG=)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2352340923001488)
+[[dataset]](https://data.mendeley.com/datasets/jjbfcckrsp/2)
 
 dataset info: 36,374 images/500 annotated images, 2 (weeds), RGB
 
-Kitzler, F., Barta, N., Neugschwandtner, R. W., Gronauer, A., & Motsch, V. (2023). WE3DS: An RGB-D Image Dataset for Semantic Segmentation in Agriculture. Sensors, 23(5), 2713. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=WE3DS%3A+An+RGB-D+image+dataset+for+semantic+segmentation+in+agriculture&btnG=)  [[paper]](https://doi.org/10.3390/s23052713)  [[dataset]](https://zenodo.org/record/7457983)
+Kitzler, F., Barta, N., Neugschwandtner, R. W., Gronauer, A., & Motsch, V. (2023). WE3DS: An RGB-D Image Dataset for Semantic Segmentation in Agriculture. Sensors, 23(5), 2713.
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=WE3DS%3A+An+RGB-D+image+dataset+for+semantic+segmentation+in+agriculture&btnG=)
+[[paper]](https://doi.org/10.3390/s23052713)
+[[dataset]](https://zenodo.org/record/7457983)
 
 dataset info: 2,568 images/annotated images, 18 (10 weeds), RGB-D
 
-Güldenring, R., Van Evert, F. K., & Nalpantidis, L. (2023). RumexWeeds: A grassland dataset for agricultural robotics. Journal of Field Robotics. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=RumexWeeds%3A+A+grassland+dataset+for+agricultural+robotics&btnG=) [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/rob.22196)  [[dataset]](https://dtu-pas.github.io/RumexWeeds/)
+Güldenring, R., Van Evert, F. K., & Nalpantidis, L. (2023). RumexWeeds: A grassland dataset for agricultural robotics. Journal of Field Robotics. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=RumexWeeds%3A+A+grassland+dataset+for+agricultural+robotics&btnG=) 
+[[paper]](https://onlinelibrary.wiley.com/doi/10.1002/rob.22196)
+[[dataset]](https://dtu-pas.github.io/RumexWeeds/)
 
 dataset info: 5,510 images, 2 (weeds), RGB
 
-Steininger, D., Trondl, A., Croonen, G., Simon, J., & Widhalm, V. (2023). The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 3729-3738). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CropAndWeed+%28Steininger+et+al.+2023%29&btnG=) [[paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Steininger_The_CropAndWeed_Dataset_A_Multi-Modal_Learning_Approach_for_Efficient_Crop_WACV_2023_paper.pdf) [[dataset]](https://github.com/cropandweed/cropandweed-dataset)
+Steininger, D., Trondl, A., Croonen, G., Simon, J., & Widhalm, V. (2023). The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 3729-3738). 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CropAndWeed+%28Steininger+et+al.+2023%29&btnG=)
+[[paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Steininger_The_CropAndWeed_Dataset_A_Multi-Modal_Learning_Approach_for_Efficient_Crop_WACV_2023_paper.pdf)
+[[dataset]](https://github.com/cropandweed/cropandweed-dataset)
 
 dataset info:  43,814 images / 8,034 annotated images, 74 (58 weeds), RGB
 
-Dang, F., Chen, D., Lu, Y., & Li, Z. (2023). YOLOWeeds: A novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems. Computers and Electronics in Agriculture, 205, 107655. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CottonWeedDet12+%28Dong+et+al.+2023%29&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169923000431)  [[dataset]](https://doi.org/10.5281/zenodo.7535814)
+Dang, F., Chen, D., Lu, Y., & Li, Z. (2023). YOLOWeeds: A novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems. Computers and Electronics in Agriculture, 205, 107655. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CottonWeedDet12+%28Dong+et+al.+2023%29&btnG=)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0168169923000431)
+[[dataset]](https://doi.org/10.5281/zenodo.7535814)
 
 dataset info:  5,648 images, 12 (weeds), RGB
 
-Gaidel, A. V., Podlipnov, V. V., Ivliev, N. A., Paringer, R. A., Ishkin, P. A., Mashkov, S. V., & Skidanov, R. V. (2023). Agricultural plant hyperspectral imaging dataset. Компьютерная оптика, 47(3), 442-450. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=80000007&as_ylo=2020&as_yhi=2023&q=Agricultural+plant+hyperspectral+imaging+dataset&btnG=)  [[paper]](https://cyberleninka.ru/article/n/agricultural-plant-hyperspectral-imaging-dataset/viewer)  [[dataset]](https://pypi.org/project/HSI-Dataset-API/)
+Gaidel, A. V., Podlipnov, V. V., Ivliev, N. A., Paringer, R. A., Ishkin, P. A., Mashkov, S. V., & Skidanov, R. V. (2023). Agricultural plant hyperspectral imaging dataset. Компьютерная оптика, 47(3), 442-450. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Sorghumweeddataset_Classification+and+Sorghumweeddataset_Segmentation+Datasets+for+Classification%2C+Detection%2C+and+Segmentation+in+Deep+Learning&btnG=)
+[[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593178)
+[[dataset]](https://pypi.org/project/HSI-Dataset-API/)
 
 dataset info:  385 images, 16 (weeds), HSI
+
+Michael, J. Sorghumweeddataset_Classification and Sorghumweeddataset_Segmentation Datasets for Classification, Detection, and Segmentation in Deep Learning. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=80000007&as_ylo=2020&as_yhi=2023&q=Agricultural+plant+hyperspectral+imaging+dataset&btnG=)
+[[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593178)
+[[dataset]](https://data.mendeley.com/datasets/y9bmtf4xmr/1)
+
+Goyal, R., Nath, A., & Utkarsh. (2023, May). IndianPotatoWeeds: An Image Dataset of Potato Crop to Address Weed Issues in Precision Agriculture. In International Conference on Agriculture-Centric Computation (pp. 116-126). Cham: Springer Nature Switzerland. 
+[[scholar]](https://scholar.google.com/scholar?hl=en&scisbd=1&as_sdt=0%2C23&q=IndianPotatoWeeds%3A+An+Image+Dataset+of+Potato+Crop+to+Address+Weed+Issues+in+Precision+Agriculture&btnG=)
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43605-5_9)
+[[dataset]](https://www.kaggle.com/datasets/rajni88/indianpotatoweed-dataset)
 
 **2022**
 
