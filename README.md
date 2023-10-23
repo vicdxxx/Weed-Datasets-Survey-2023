@@ -39,10 +39,6 @@ Weyler, J., Magistri, F., Marks, E., Chong, Y. L., Sodano, M., Roggiolani, G., .
 
 dataset info: 2,872 images, 5 (1 weed), RGB
 
-Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, E. B., Vrochidis, S., & Kompatsiaris, I. (2022). CoFly-WeedDB: A UAV image dataset for weed detection and species identification. Data in Brief, 45, 108575. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CoFly-WeedDB%3A+A+UAV+image+dataset+for+weed+detection+and+species+identification&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S235234092200782X)  [[dataset]](https://zenodo.org/record/6697343#.YrQpwHhByV4)
-
-dataset info: 201 images, 3 (weeds), RGB
-
 Olaniyi, O. M., Salaudeen, M. T., Daniya, E., Abdullahi, I. M., Folorunso, T. A., Bala, J. A., ... & Macarthy, O. M. (2023). Development of maize plant dataset for intelligent recognition and weed control. Data in Brief, 47, 109030. 
 [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Development+of+maize+plant+dataset+for+intelligent+recognition+and+weed+control&btnG=)
 [[paper]](https://www.sciencedirect.com/science/article/pii/S2352340923001488)
@@ -96,6 +92,10 @@ Goyal, R., Nath, A., & Utkarsh. (2023, May). IndianPotatoWeeds: An Image Dataset
 [[dataset]](https://www.kaggle.com/datasets/rajni88/indianpotatoweed-dataset)
 
 **2022**
+
+Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, E. B., Vrochidis, S., & Kompatsiaris, I. (2022). CoFly-WeedDB: A UAV image dataset for weed detection and species identification. Data in Brief, 45, 108575. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CoFly-WeedDB%3A+A+UAV+image+dataset+for+weed+detection+and+species+identification&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S235234092200782X)  [[dataset]](https://zenodo.org/record/6697343#.YrQpwHhByV4)
+
+dataset info: 201 images, 3 (weeds), RGB
 
 Alam, M. S., Alam, M., Tufail, M., Khan, M. U., Güneş, A., Salah, B., ... & Khan, M. T. (2022). TobSet: A new tobacco crop and weeds image dataset and its utilization for vision-based spraying by agricultural robots. Applied Sciences, 12(3), 1308. [[scholar]](https://scholar.google.com/scholar?q=info:SEolHh2fB0AJ:scholar.google.com/&oi=gsb&lookup=0&hl=en) [[paper]](https://www.mdpi.com/2076-3417/12/3/1308) [[dataset]](https://github.com/mshahabalam/TobSet)
 
