@@ -91,6 +91,11 @@ Goyal, R., Nath, A., & Utkarsh. (2023, May). IndianPotatoWeeds: An Image Dataset
 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43605-5_9)
 [[dataset]](https://www.kaggle.com/datasets/rajni88/indianpotatoweed-dataset)
 
+Rai, N., Mahecha, M. V., Christensen, A., Quanbeck, J., Zhang, Y., Howatt, K., ... & Sun, X. (2023). Multi-format open-source weed image dataset for real-time weed identification in precision agriculture. Data in Brief, 51, 109691.
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Multi-format+open-source+weed+image+dataset+for+real-time+weed+identification+in+precision+agriculture&btnG=)
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2352340923007709)
+[[dataset]](https://data.mendeley.com/datasets/8kjcztbjz2/2)
+
 **2022**
 
 Krestenitis, M., Raptis, E. K., Kapoutsis, A. C., Ioannidis, K., Kosmatopoulos, E. B., Vrochidis, S., & Kompatsiaris, I. (2022). CoFly-WeedDB: A UAV image dataset for weed detection and species identification. Data in Brief, 45, 108575. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=CoFly-WeedDB%3A+A+UAV+image+dataset+for+weed+detection+and+species+identification&btnG=)  [[paper]](https://www.sciencedirect.com/science/article/pii/S235234092200782X)  [[dataset]](https://zenodo.org/record/6697343#.YrQpwHhByV4)
